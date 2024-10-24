@@ -1,0 +1,2403 @@
+[
+    {
+        "case_number": "777773",
+        "returned_to_agency": true,
+        "exhibit_name": "SamplePoliceReport.pdf",
+        "status": "closed",
+        "fileKey": "777773/raw-files/SamplePoliceReport.pdf",
+        "uploaded_at": "2024-10-15 20:55:06",
+        "name_mapping_dict": {
+            "john smith": "[Officer #1]",
+            "maria rodriguez": "[Witness #1]",
+            "jane doe": "[Officer #2]",
+            "jamal harris": "[Suspect #1]",
+            "david chen": "[Witness #2]"
+        },
+        "accessing_users": [
+            {
+                "clerk": "dhruv.raval@scalecapacity.com"
+            },
+            {
+                "attorney": "kavan.patel@scalecapacity.com"
+            }
+        ],
+        "suspect": [
+            {
+                "form_to_show": "a3",
+                "race": "African American",
+                "form_filled": "a3",
+                "name": "Jamal Harris",
+                "x": "Criminal charges filed [CF]",
+                "alias": "suspect1",
+                "view_unredacted_file": false,
+                "y": "Insufficient Evidence and/or No criminal charges filed [NCF]",
+                "all_forms_filled": true
+            }
+        ],
+        "uploaded_by": "yousuf.mohammad@scalecapacity.com",
+        "officer_count": 2,
+        "assessment_to_be_completed": "closed",
+        "added_new_redaction": true,
+        "exhibit_id": "777773_e5cdc09e-559d-46a4-88e1-e33b9250c763",
+        "victim": [],
+        "witness": [
+            {
+                "name": "Maria Rodriguez",
+                "form_to_show": "a1",
+                "alias": "witness1",
+                "race": "Hispanic"
+            },
+            {
+                "name": "David Chen",
+                "form_to_show": "a1",
+                "alias": "witness2",
+                "race": "Asian"
+            }
+        ],
+        "assigned_to_name": "Kavan Patel",
+        "attorney_id": "18706",
+        "exhibit_type": "pdf",
+        "redaction_index_status": "redacted",
+        "description": "test-sort3",
+        "high_priority": true,
+        "assessment_file_key": "777773/initial-assessment-data/777773_e5cdc09e-559d-46a4-88e1-e33b9250c763.json",
+        "index_status": "redacting"
+    },
+    {
+        "case_number": "test 11 pg",
+        "exhibit_name": "11 page report.pdf",
+        "status": "redacted",
+        "fileKey": "test 11 pg/raw-files/11 page report.pdf",
+        "uploaded_at": "2024-10-23 21:11:33",
+        "name_mapping_dict": {
+            "brooke kobold": "[Officer #1]",
+            "jonah norman": "[Officer #2]",
+            "buford  abasi jaja": "[Suspect #1]",
+            "fatimah renee buford": "[Victim #1]",
+            "munoz": "[Officer #4]",
+            "buford abasi jaja": "[Suspect #1]",
+            "abasi jaja buford": "[Suspect #1]",
+            "biama  anthony": "[Officer #3]",
+            "fatimah buford": "[Victim #1]",
+            "buford abasi": "[Suspect #1]",
+            "fatimah": "[Victim #1]",
+            "abasi": "[Suspect #1]",
+            "buford  fatimah renee": "[Victim #1]",
+            "buford   abasi": "[Suspect #1]",
+            "kobold  brooke": "[Officer #1]",
+            "abasi buford": "[Suspect #1]",
+            "buford abas": "[Suspect #1]",
+            "buford  fatimah": "[Victim #1]",
+            "brooke": "[Officer #1]"
+        },
+        "accessing_users": [
+            {
+                "attorney": "attorney-rbc@contracostada.org"
+            },
+            {
+                "clerk": "dhruv.raval@scalecapacity.com"
+            }
+        ],
+        "suspect": [
+            {
+                "name": "Abasi Jaja Buford",
+                "form_to_show": "a1",
+                "alias": "suspect1",
+                "race": "Black"
+            }
+        ],
+        "uploaded_by": "clerk-rbc@contracostada.org",
+        "officer_count": 6,
+        "assessment_to_be_completed": "a1",
+        "exhibit_id": "test 11 pg_87dd0601-8f91-4f91-ac75-00f59cd3a2cb",
+        "victim": [
+            {
+                "name": "Fatimah Renee Buford",
+                "form_to_show": "a1",
+                "alias": "victim1",
+                "race": "Black"
+            }
+        ],
+        "assigned_to_name": "James Mount",
+        "attorney_id": "55486",
+        "exhibit_type": "pdf",
+        "redaction_index_status": "redacted",
+        "description": "11 page report 1 of 2",
+        "high_priority": true,
+        "index_status": "redacting"
+    },
+    {
+        "case_number": "00000",
+        "exhibit_name": "EGP report.pdf",
+        "status": "closed",
+        "fileKey": "00000/raw-files/EGP report.pdf",
+        "uploaded_at": "2024-10-23 18:18:46",
+        "name_mapping_dict": {
+            "nathan russell": "[Suspect #1]",
+            "mercedes savala": "[Suspect #3]",
+            "j  jones": "[Officer #3]",
+            "savala": "[Suspect #3]",
+            "michael nguyen": "[Officer #2]",
+            "salava": "[Suspect #3]",
+            "athena maxine russell": "[Suspect #2]",
+            "athena russell": "[Suspect #2]",
+            "rodjard daguman": "[Victim #1]",
+            "nathan andrew russell": "[Suspect #1]",
+            "chris cahill": "[Officer #1]",
+            "braga": "[Officer #4]",
+            "nathan andrew": "[Suspect #1]",
+            "russell": "[Suspect #2]",
+            "christopher cahill": "[Officer #1]",
+            "daguman": "[Victim #1]",
+            "dean hoang": "[Victim #2]",
+            "mcpherson": "[Officer #5]",
+            "tyler peck": "[Witness #2]",
+            "cory wirtz": "[Witness #1]"
+        },
+        "accessing_users": [
+            {
+                "attorney": "brijesh.mangroliya@scalecapacity.com"
+            },
+            {
+                "clerk": "dhruv.raval@scalecapacity.com"
+            }
+        ],
+        "suspect": [
+            {
+                "form_to_show": "a3",
+                "race": "White",
+                "form_filled": "a3",
+                "name": "Nathan Andrew Russell",
+                "x": "The case qualifies for RBF and I believe I was able to conduct a race blind assessment of the case per the requirements of PC 741.",
+                "alias": "suspect1",
+                "view_unredacted_file": false,
+                "y": "Insufficient Evidence and/or No criminal charges filed [NCF]",
+                "all_forms_filled": true
+            },
+            {
+                "form_to_show": "a3",
+                "race": "Unknown",
+                "form_filled": "a3",
+                "name": "Athena Maxine Russell",
+                "x": "The case qualifies for RBF and I believe I was able to conduct a race blind assessment of the case per the requirements of PC 741.",
+                "alias": "suspect2",
+                "view_unredacted_file": false,
+                "y": "Insufficient Evidence and/or No criminal charges filed [NCF]",
+                "all_forms_filled": true
+            },
+            {
+                "form_to_show": "a3",
+                "race": "Hispanic",
+                "form_filled": "a3",
+                "name": "Mercedes Savala",
+                "x": "The case qualifies for RBF and I believe I was able to conduct a race blind assessment of the case per the requirements of PC 741.",
+                "alias": "suspect3",
+                "view_unredacted_file": false,
+                "y": "Insufficient Evidence and/or No criminal charges filed [NCF]",
+                "all_forms_filled": true
+            }
+        ],
+        "uploaded_by": "yousuf.mohammad@scalecapacity.com",
+        "officer_count": 6,
+        "assessment_to_be_completed": "closed",
+        "exhibit_id": "00000_bb34a0fd-d4dd-4c00-8939-1774c9b52d3f",
+        "victim": [
+            {
+                "name": "Rodjard Daguman",
+                "form_to_show": "a1",
+                "alias": "victim1",
+                "race": "Asian"
+            },
+            {
+                "name": "Dean Hoang",
+                "form_to_show": "a1",
+                "alias": "victim2",
+                "race": "Asian"
+            }
+        ],
+        "witness": [
+            {
+                "name": "Cory Wirtz",
+                "form_to_show": "a1",
+                "alias": "witness1",
+                "race": "White"
+            },
+            {
+                "name": "Tyler Peck",
+                "form_to_show": "a1",
+                "alias": "witness2",
+                "race": "White"
+            }
+        ],
+        "assigned_to_name": "Brijesh Mangroliya",
+        "attorney_id": "54027",
+        "exhibit_type": "pdf",
+        "redaction_index_status": "redacted",
+        "description": "testing",
+        "high_priority": true,
+        "assessment_file_key": "00000/initial-assessment-data/00000_bb34a0fd-d4dd-4c00-8939-1774c9b52d3f.json",
+        "index_status": "redacting"
+    },
+    {
+        "case_number": "777774",
+        "exhibit_name": "EGP report (1).pdf",
+        "status": "edited",
+        "fileKey": "777774/raw-files/EGP report (1).pdf",
+        "uploaded_at": "2024-10-15 20:55:58",
+        "name_mapping_dict": {
+            "mercedes savala": "[Suspect #3]",
+            "michael nguyen": "[Officer #2]",
+            "salava": "[Officer #6]",
+            "athena maxine russell": "[Suspect #2]",
+            "state of ca": "[Victim #3]",
+            "rodjard daguman": "[Victim #1]",
+            "nathan andrew russell": "[Suspect #1]",
+            "braga": "[Officer #4]",
+            "christopher cahill": "[Officer #1]",
+            "dean hoang": "[Victim #2]",
+            "mcpherson": "[Officer #5]",
+            "tyler peck": "[Witness #2]",
+            "cory wirtz": "[Witness #1]",
+            "jones": "[Officer #3]"
+        },
+        "removed_existing_redaction": true,
+        "accessing_users": [
+            {
+                "clerk": "dhruv.patel@scalecapacity.com"
+            }
+        ],
+        "suspect": [
+            {
+                "name": "NATHAN ANDREW RUSSELL",
+                "form_to_show": "a1",
+                "alias": "suspect1",
+                "race": "White"
+            },
+            {
+                "name": "ATHENA MAXINE RUSSELL",
+                "form_to_show": "a1",
+                "alias": "suspect2",
+                "race": "Unknown"
+            },
+            {
+                "name": "MERCEDES SAVALA",
+                "form_to_show": "a1",
+                "alias": "suspect3",
+                "race": "Hispanic"
+            }
+        ],
+        "uploaded_by": "yousuf.mohammad@scalecapacity.com",
+        "officer_count": 6,
+        "assessment_to_be_completed": "a1",
+        "updated_existing_redaction": true,
+        "exhibit_id": "777774_68f925fc-5d0e-44fc-b94c-57e1cf522733",
+        "victim": [
+            {
+                "name": "RODJARD DAGUMAN",
+                "form_to_show": "a1",
+                "alias": "victim1",
+                "race": "ASIAN/PACIFIC ISLANDER"
+            },
+            {
+                "name": "DEAN HOANG",
+                "form_to_show": "a1",
+                "alias": "victim2",
+                "race": "ASIAN/PACIFIC ISLANDER"
+            },
+            {
+                "name": "STATE OF CA",
+                "form_to_show": "a1",
+                "alias": "victim3",
+                "race": "Unknown"
+            }
+        ],
+        "witness": [
+            {
+                "name": "CORY WIRTZ",
+                "form_to_show": "a1",
+                "alias": "witness1",
+                "race": "White"
+            },
+            {
+                "name": "TYLER PECK",
+                "form_to_show": "a1",
+                "alias": "witness2",
+                "race": "White"
+            }
+        ],
+        "added_new_redaction": true,
+        "assigned_to_name": "Kavan Patel",
+        "attorney_id": "18706",
+        "exhibit_type": "pdf",
+        "redaction_index_status": "redacted",
+        "description": "test-sort4",
+        "high_priority": false,
+        "index_status": "redacting"
+    },
+    {
+        "case_number": "C93333677883344",
+        "exhibit_name": "EGP report.pdf",
+        "status": "closed",
+        "fileKey": "C93333677883344/raw-files/EGP report.pdf",
+        "uploaded_at": "2024-10-21 20:52:41",
+        "name_mapping_dict": {
+            "braga": "[Officer #4]",
+            "mercedes savala": "[Suspect #3]",
+            "j  jones": "[Officer #3]",
+            "michael nguyen": "[Officer #2]",
+            "christopher cahill": "[Officer #1]",
+            "dean hoang": "[Victim #2]",
+            "athena maxine russell": "[Suspect #2]",
+            "mcpherson": "[Officer #5]",
+            "tyler peck": "[Witness #2]",
+            "cory wirtz": "[Witness #1]",
+            "rodjard daguman": "[Victim #1]",
+            "nathan andrew russell": "[Suspect #1]"
+        },
+        "accessing_users": [
+            {
+                "attorney": "kavan.patel@scalecapacity.com"
+            },
+            {
+                "clerk": "dhruv.patel@scalecapacity.com"
+            }
+        ],
+        "suspect": [
+            {
+                "form_to_show": "a3",
+                "race": "White",
+                "form_filled": "a3",
+                "name": "NATHAN ANDREW RUSSELL",
+                "x": "The case qualifies for RBF and I believe I was able to conduct a race blind assessment of the case per the requirements of PC 741.",
+                "alias": "suspect1",
+                "view_unredacted_file": false,
+                "y": "Insufficient Evidence and/or No criminal charges filed [NCF]",
+                "all_forms_filled": true
+            },
+            {
+                "form_to_show": "a3",
+                "race": "Unknown",
+                "form_filled": "a3",
+                "name": "Athena Maxine Russell",
+                "x": "The case qualifies for RBF and I believe I was able to conduct a race blind assessment of the case per the requirements of PC 741.",
+                "alias": "suspect2",
+                "view_unredacted_file": false,
+                "y": "Insufficient Evidence and/or No criminal charges filed [NCF]",
+                "all_forms_filled": true
+            },
+            {
+                "form_to_show": "a3",
+                "race": "Hispanic",
+                "form_filled": "a3",
+                "name": "MERCEDES SAVALA",
+                "x": "The case qualifies for RBF and I believe I was able to conduct a race blind assessment of the case per the requirements of PC 741.",
+                "alias": "suspect3",
+                "view_unredacted_file": false,
+                "y": "Criminal charges filed [CF]",
+                "all_forms_filled": true
+            }
+        ],
+        "uploaded_by": "yousuf.mohammad@scalecapacity.com",
+        "officer_count": 5,
+        "assessment_to_be_completed": "closed",
+        "exhibit_id": "C93333677883344_c9c29810-6856-4e57-8616-0ad10e11b127",
+        "victim": [
+            {
+                "name": "RODJARD DAGUMAN",
+                "form_to_show": "a1",
+                "alias": "victim1",
+                "race": "ASIAN"
+            },
+            {
+                "name": "DEAN HOANG",
+                "form_to_show": "a1",
+                "alias": "victim2",
+                "race": "ASIAN"
+            }
+        ],
+        "witness": [
+            {
+                "name": "cory wirtz",
+                "form_to_show": "a1",
+                "alias": "witness1",
+                "race": "White"
+            },
+            {
+                "name": "tyler peck",
+                "form_to_show": "a1",
+                "alias": "witness2",
+                "race": "White"
+            }
+        ],
+        "assigned_to_name": "Kavan Patel",
+        "attorney_id": "18706",
+        "exhibit_type": "pdf",
+        "redaction_index_status": "redacted",
+        "description": "Test new A1 Q",
+        "high_priority": false,
+        "assessment_file_key": "C93333677883344/initial-assessment-data/C93333677883344_c9c29810-6856-4e57-8616-0ad10e11b127.json",
+        "index_status": "redacting"
+    },
+    {
+        "case_number": "28 pg test",
+        "exhibit_name": "28 page report w hand writing.pdf",
+        "status": "redacted",
+        "fileKey": "28 pg test/raw-files/28 page report w hand writing.pdf",
+        "uploaded_at": "2024-10-23 21:15:08",
+        "name_mapping_dict": {
+            "defendant s": "[Officer #5]",
+            "s 1 ronaldson  lukas": "[Officer #21]",
+            "ronaldson lukas s": "[Suspect #1]",
+            "joaquin a  jimenez": "[Officer #14]",
+            "statement s": "[Officer #5]",
+            "subpoena s": "[Officer #5]",
+            "christopher winters": "[Officer #17]",
+            "lukas": "[Suspect #1]",
+            "ronaldson  lukas s": "[Suspect #1]",
+            "rizzo  j": "[Officer #4]",
+            "vial s": "[Officer #10]",
+            "jamefax": "[Officer #3]",
+            "v  ceja": "[Officer #19]",
+            "subject s   ronaldson  lukas": "[Suspect #1]",
+            "kyle jensen": "[Officer #16]",
+            "j young": "[Officer #8]",
+            "exclusion s": "[Officer #5]",
+            "lukas s ronaldson": "[Suspect #1]",
+            "date s": "[Officer #12]",
+            "ronaldson  lukas  shelby": "[Suspect #1]",
+            "gil tang": "[Officer #1]",
+            "k jensen": "[Officer #16]",
+            "lukas shelby ronaldson": "[Suspect #1]",
+            "sample s": "[Officer #2]",
+            "k 3": "[Officer #16]",
+            "kent ringgenberg": "[Officer #15]",
+            "offense s": "[Officer #5]",
+            "type s": "[Officer #5]",
+            "james rizzo": "[Officer #4]",
+            "s 1  lukas ronaldson": "[Suspect #1]",
+            "s 1": "[Officer #5]",
+            "james": "[Officer #3]",
+            "ryan reynolds": "[Officer #18]",
+            "ronaldson  lukas": "[Officer #11]",
+            "test s": "[Officer #5]",
+            "lukas shelby": "[Suspect #1]",
+            "denise gallagher": "[Officer #13]",
+            "i d   s": "[Officer #5]",
+            "ronaldson": "[Officer #11]",
+            "gallagher": "[Officer #13]",
+            "tend markler": "[Officer #6]",
+            "rizzo": "[Officer #4]",
+            "lukas ronaldson": "[Suspect #1]",
+            "reynolds": "[Officer #18]",
+            "officer s": "[Officer #5]",
+            "violation s": "[Officer #7]",
+            "gilbert tang": "[Officer #1]",
+            "k": "[Officer #16]",
+            "package s": "[Officer #5]",
+            "s": "[Officer #5]",
+            "deviation s": "[Officer #5]",
+            "ringgenberg": "[Officer #15]",
+            "k  jensen": "[Officer #16]",
+            "j  rizzo": "[Officer #4]",
+            "jamor": "[Officer #9]",
+            "ronaldson  lukas  s": "[Suspect #1]",
+            "p a s": "[Officer #20]",
+            "ronaldson  lukas shelby": "[Suspect #1]",
+            "jonathan young": "[Officer #8]"
+        },
+        "accessing_users": [
+            {
+                "attorney": "attorney-rbc@contracostada.org"
+            },
+            {
+                "clerk": "dhruv.raval@scalecapacity.com"
+            }
+        ],
+        "suspect": [
+            {
+                "name": "Lukas Shelby Ronaldson",
+                "form_to_show": "a1",
+                "alias": "suspect1",
+                "race": "White"
+            }
+        ],
+        "uploaded_by": "clerk-rbc@contracostada.org",
+        "officer_count": 47,
+        "assessment_to_be_completed": "a1",
+        "exhibit_id": "28 pg test_7ebd640d-0369-4e80-8d33-6921ca8365d4",
+        "assigned_to_name": "James Mount",
+        "attorney_id": "55486",
+        "exhibit_type": "pdf",
+        "redaction_index_status": "redacted",
+        "description": "28 page report",
+        "high_priority": false,
+        "index_status": "redacting"
+    },
+    {
+        "exhibit_id": "12345_71e16040-83d1-4883-9211-42c35bd88ccd",
+        "status": "failed"
+    },
+    {
+        "exhibit_id": "23456_305c138d-8b70-4f72-b6cb-a2e2ea837483",
+        "status": "failed"
+    },
+    {
+        "case_number": "101 pg test",
+        "exhibit_name": "101 page report.pdf",
+        "status": "redacted",
+        "fileKey": "101 pg test/raw-files/101 page report.pdf",
+        "uploaded_at": "2024-10-23 21:17:37",
+        "name_mapping_dict": {
+            "carolyn appleton": "[Victim #5]",
+            "stacy figueira": "[Witness #1]",
+            "vic2 kristy appleton": "[Victim #1]",
+            "sawant tejas sanjay": "[Suspect #1]",
+            "gawfco": "[Officer #4]",
+            "vic2 kristy": "[Victim #1]",
+            "dwr3 sbanh002": "[Officer #1]",
+            "albertho": "[Witness #3]",
+            "oth2 mark figueira": "[Witness #2]",
+            "mark figueira": "[Witness #2]",
+            "appleton  pierce": "[Victim #3]",
+            "madeleine": "[Victim #4]",
+            "appleton  carolyn": "[Victim #5]",
+            "carolyn": "[Victim #5]",
+            "shin": "[Witness #3]",
+            "to stephanie banh": "[Officer #1]",
+            "tomas": "[Officer #9]",
+            "vic3 pierce appleton": "[Victim #3]",
+            "sawant": "[Suspect #1]",
+            "banh": "[Officer #1]",
+            "kristy": "[Victim #2]",
+            "pierce appleton": "[Victim #3]",
+            "appleton madeleine": "[Victim #4]",
+            "tejas": "[Suspect #1]",
+            "gdrol002 drolet": "[Officer #6]",
+            "arr tejas sawant": "[Suspect #1]",
+            "stacy": "[Witness #1]",
+            "bellingham": "[Officer #7]",
+            "appleton paul": "[Victim #1]",
+            "beatriz": "[Officer #16]",
+            "adonnis": "[Officer #20]",
+            "appleton carolyn": "[Victim #5]",
+            "paul appleton yahoo com": "[Victim #1]",
+            "watling bryan": "[Officer #2]",
+            "gathan": "[Officer #12]",
+            "hin albertho": "[Witness #3]",
+            "cheeko": "[Officer #13]",
+            "appleton pierce": "[Victim #3]",
+            "banh  stephanie  sbanh002": "[Officer #1]",
+            "kristy appleton": "[Victim #2]",
+            "figueira stacy lynette": "[Witness #1]",
+            "stephanie banh": "[Officer #1]",
+            "kara": "[Officer #22]",
+            "leffle": "[Officer #21]",
+            "vic4 carolyn appleton": "[Victim #5]",
+            "sawant  tejas sanjay": "[Suspect #1]",
+            "shio westley": "[Officer #4]",
+            "samed": "[Officer #11]",
+            "watling": "[Officer #2]",
+            "albertho hin": "[Witness #3]",
+            "vic3 madeleine appleton": "[Victim #4]",
+            "dcruz001 cruz": "[Officer #17]",
+            "drolet": "[Officer #6]",
+            "watling brya": "[Officer #2]",
+            "sbanh danville ca gov": "[Officer #1]",
+            "vnm vab": "[Officer #15]",
+            "sawant t": "[Suspect #1]",
+            "figueira": "[Witness #2]",
+            "paul appleton  kristy": "[Victim #2]",
+            "grace": "[Officer #3]",
+            "tejas sawant": "[Suspect #1]",
+            "figueira mark henry": "[Witness #2]",
+            "vic1 paul appleton": "[Victim #1]",
+            "david": "[Officer #18]",
+            "pierce": "[Victim #3]",
+            "j varada": "[Officer #14]",
+            "vic1 paul": "[Victim #1]",
+            "watling  bryan": "[Officer #2]",
+            "gregory": "[Officer #19]",
+            "banh stephanie": "[Officer #1]",
+            "oth1 stacy figueira": "[Witness #1]",
+            "oth3 albertho shin": "[Witness #3]",
+            "daughenbaugh": "[Officer #5]",
+            "s banh": "[Officer #1]",
+            "paul appleton": "[Victim #1]",
+            "appleton  paul": "[Victim #1]",
+            "gawfco westley": "[Officer #4]",
+            "motelle": "[Officer #8]",
+            "appleton": "[Victim #1]",
+            "appleton kristy delong": "[Victim #2]",
+            "banh  st": "[Officer #1]",
+            "westley": "[Officer #4]",
+            "madeleine appleton": "[Victim #4]",
+            "cruz": "[Officer #17]",
+            "appleton  kristy delong": "[Victim #2]",
+            "paul": "[Victim #1]",
+            "ephanie": "[Officer #1]",
+            "mark": "[Witness #2]",
+            "storio": "[Officer #10]",
+            "gdrol002": "[Officer #6]"
+        },
+        "accessing_users": [
+            {
+                "attorney": "attorney-rbc@contracostada.org"
+            },
+            {
+                "clerk": "dhruv.patel@scalecapacity.com"
+            }
+        ],
+        "uploaded_by": "clerk-rbc@contracostada.org",
+        "officer_count": 40,
+        "assessment_to_be_completed": "a1",
+        "exhibit_id": "101 pg test_08629125-24ba-4cec-8c4a-23a01b1b4113",
+        "assigned_to_name": "James Mount",
+        "attorney_id": "55486",
+        "exhibit_type": "pdf",
+        "redaction_index_status": "redacted",
+        "description": "101 page report ",
+        "high_priority": false,
+        "index_status": "redacting"
+    },
+    {
+        "case_number": "32 pg test",
+        "exhibit_name": "32 page report.pdf",
+        "status": "redacted",
+        "fileKey": "32 pg test/raw-files/32 page report.pdf",
+        "uploaded_at": "2024-10-23 21:15:50",
+        "name_mapping_dict": {
+            "regina": "[Victim #4]",
+            "cunningham 703": "[Officer #18]",
+            "prakash": "[Officer #10]",
+            "steven dole": "[Officer #21]",
+            "adepoju": "[Witness #1]",
+            "l  matsui": "[Officer #6]",
+            "lee": "[Officer #8]",
+            "t  prakash": "[Officer #10]",
+            "delacruz": "[Officer #12]",
+            "tellez": "[Officer #15]",
+            "saheed adepoju": "[Witness #1]",
+            "michael dipretoro": "[Witness #2]",
+            "j  power": "[Officer #7]",
+            "teneal": "[Suspect #1]",
+            "plilger": "[Officer #24]",
+            "walker": "[Officer #13]",
+            "r  martinez": "[Officer #1]",
+            "f m": "[Officer #5]",
+            "moore": "[Victim #4]",
+            "k  cook": "[Officer #19]",
+            "phillip chang": "[Victim #1]",
+            "vargas": "[Victim #3]",
+            "chelsea": "[Victim #2]",
+            "joe": "[Officer #26]",
+            "manuel moore": "[Victim #5]",
+            "k 9": "[Officer #20]",
+            "chelsea caudle": "[Victim #2]",
+            "vargas  julio": "[Victim #3]",
+            "manuel": "[Victim #5]",
+            "grubbs  grubbs": "[Suspect #1]",
+            "martinez": "[Officer #1]",
+            "grubbs": "[Suspect #1]",
+            "cati dole": "[Witness #4]",
+            "c  lee": "[Officer #8]",
+            "diaz  anthony": "[Officer #3]",
+            "k  correia": "[Officer #9]",
+            "joshua": "[Suspect #1]",
+            "p  chehal": "[Officer #17]",
+            "black white": "[Officer #4]",
+            "scott lohman": "[Witness #3]",
+            "m  tellez": "[Officer #15]",
+            "julio vargas": "[Victim #3]",
+            "caudle": "[Victim #2]",
+            "cesar": "[Victim #3]",
+            "joshua teneal grubbs": "[Suspect #1]",
+            "m tellez": "[Officer #22]",
+            "cunningham": "[Officer #18]",
+            "julio cesar vargas": "[Victim #3]",
+            "w  delacruz": "[Officer #12]",
+            "cook": "[Officer #19]",
+            "anderson": "[Officer #23]",
+            "chamorro": "[Officer #28]",
+            "black": "[Officer #4]",
+            "regina moore": "[Victim #4]",
+            "t  cunningham": "[Officer #18]",
+            "matsui": "[Officer #6]",
+            "julio": "[Victim #3]",
+            "dole": "[Witness #4]",
+            "lohman": "[Witness #3]",
+            "chelsea tillian caudle": "[Victim #2]",
+            "r": "[Officer #1]",
+            "b  palos lopez": "[Officer #16]",
+            "doug": "[Officer #25]",
+            "h  enerio": "[Officer #27]",
+            "chang": "[Victim #1]",
+            "w": "[Officer #12]",
+            "cunningham  tyler": "[Officer #2]",
+            "joshua grubbs": "[Suspect #1]",
+            "bradley": "[Officer #11]",
+            "d  bradley": "[Officer #11]",
+            "j  walker": "[Officer #13]",
+            "j  smith": "[Officer #14]",
+            "correia": "[Officer #9]",
+            "eric anderson": "[Officer #23]"
+        },
+        "accessing_users": [
+            {
+                "attorney": "attorney-rbc@contracostada.org"
+            },
+            {
+                "clerk": "dhruv.patel@scalecapacity.com"
+            }
+        ],
+        "suspect": [
+            {
+                "name": "Joshua Teneal Grubbs",
+                "form_to_show": "a1",
+                "alias": "suspect1",
+                "race": "Black"
+            }
+        ],
+        "uploaded_by": "clerk-rbc@contracostada.org",
+        "officer_count": 44,
+        "assessment_to_be_completed": "a1",
+        "exhibit_id": "32 pg test_ac7c6d37-606e-45e5-b8b3-8ea7e7d9f88b",
+        "victim": [
+            {
+                "name": "Phillip Chang",
+                "form_to_show": "a1",
+                "alias": "victim1",
+                "race": "Chinese"
+            },
+            {
+                "name": "Chelsea Caudle",
+                "form_to_show": "a1",
+                "alias": "victim2",
+                "race": "White"
+            },
+            {
+                "name": "Julio Cesar Vargas",
+                "form_to_show": "a1",
+                "alias": "victim3",
+                "race": "Hispanic"
+            },
+            {
+                "name": "Regina Moore",
+                "form_to_show": "a1",
+                "alias": "victim4",
+                "race": "Black"
+            },
+            {
+                "name": "Manuel Moore",
+                "form_to_show": "a1",
+                "alias": "victim5",
+                "race": "Black"
+            }
+        ],
+        "witness": [
+            {
+                "name": "Saheed Adepoju",
+                "form_to_show": "a1",
+                "alias": "witness1",
+                "race": "Black"
+            },
+            {
+                "name": "Michael Dipretoro",
+                "form_to_show": "a1",
+                "alias": "witness2",
+                "race": "White"
+            },
+            {
+                "name": "Scott Lohman",
+                "form_to_show": "a1",
+                "alias": "witness3",
+                "race": "White"
+            },
+            {
+                "name": "Cati Dole",
+                "form_to_show": "a1",
+                "alias": "witness4",
+                "race": "White"
+            }
+        ],
+        "assigned_to_name": "James Mount",
+        "attorney_id": "55486",
+        "exhibit_type": "pdf",
+        "redaction_index_status": "redacted",
+        "description": "32 page report ",
+        "high_priority": false,
+        "index_status": "redacting"
+    },
+    {
+        "case_number": "test 20",
+        "exhibit_name": "20 page report.pdf",
+        "status": "redacted",
+        "fileKey": "test 20/raw-files/20 page report.pdf",
+        "uploaded_at": "2024-10-23 21:13:24",
+        "name_mapping_dict": {
+            "kaihe": "[Officer #3]",
+            "adriana medina": "[Officer #9]",
+            "harris rufus": "[Suspect #1]",
+            "smith cory": "[Officer #8]",
+            "martinez": "[Officer #6]",
+            "adriana media": "[Officer #9]",
+            "media": "[Officer #9]",
+            "vanrooyen": "[Officer #2]",
+            "berti": "[Officer #5]",
+            "s  harris  rufus": "[Suspect #1]",
+            "kevin": "[Witness #1]",
+            "flores hector": "[Officer #1]",
+            "andres cisneros": "[Officer #10]",
+            "dieu kevin": "[Witness #1]",
+            "dieu": "[Witness #1]",
+            "borman lee": "[Officer #7]",
+            "rufus harris": "[Suspect #1]",
+            "rufus": "[Suspect #1]",
+            "vanrooyen gef": "[Officer #2]",
+            "vanrooyen  gerrit": "[Officer #2]",
+            "refus harris": "[Suspect #1]",
+            "melgoza": "[Officer #12]",
+            "martinez  alicia": "[Officer #6]",
+            "flores": "[Officer #1]",
+            "martinez alicia": "[Officer #6]",
+            "ofc alicia martinez": "[Officer #6]",
+            "ofc joseph berti": "[Officer #5]",
+            "kevin dieu": "[Witness #1]",
+            "harris": "[Suspect #1]",
+            "pauline harris": "[Suspect #1]",
+            "vanrooyen gerrit": "[Officer #2]",
+            "andres": "[Officer #10]",
+            "harris  rufus": "[Suspect #1]",
+            "novella": "[Officer #4]",
+            "j hernandez": "[Officer #11]",
+            "flores  hector": "[Officer #1]",
+            "vanrooyen gerri": "[Officer #2]",
+            "cisneros andres": "[Officer #10]",
+            "stephanie logan": "[Officer #13]"
+        },
+        "accessing_users": [
+            {
+                "attorney": "attorney-rbc@contracostada.org"
+            },
+            {
+                "clerk": "dhruv.raval@scalecapacity.com"
+            }
+        ],
+        "suspect": [
+            {
+                "name": "Rufus Harris",
+                "form_to_show": "a1",
+                "alias": "suspect1",
+                "race": "Black"
+            }
+        ],
+        "uploaded_by": "clerk-rbc@contracostada.org",
+        "officer_count": 27,
+        "assessment_to_be_completed": "a1",
+        "exhibit_id": "test 20_943dcd2f-7f6e-411c-a1bc-f5efff7e4441",
+        "witness": [
+            {
+                "name": "Kevin Dieu",
+                "form_to_show": "a1",
+                "alias": "witness1",
+                "race": "White"
+            }
+        ],
+        "assigned_to_name": "James Mount",
+        "attorney_id": "55486",
+        "exhibit_type": "pdf",
+        "redaction_index_status": "redacted",
+        "description": "20 pg report",
+        "high_priority": false,
+        "index_status": "redacting"
+    },
+    {
+        "case_number": "D99CI230000271",
+        "exhibit_name": "EGP report.pdf",
+        "status": "redacted",
+        "fileKey": "D99CI230000271/raw-files/EGP report.pdf",
+        "uploaded_at": "2024-10-23 16:13:07",
+        "name_mapping_dict": {
+            "nathan russell": "[Suspect #1]",
+            "mercedes savala": "[Suspect #3]",
+            "j  jones": "[Officer #3]",
+            "savala": "[Suspect #3]",
+            "michael nguyen": "[Officer #2]",
+            "salava": "[Suspect #3]",
+            "athena maxine russell": "[Suspect #2]",
+            "athena russell": "[Suspect #2]",
+            "rodjard daguman": "[Victim #1]",
+            "nathan andrew russell": "[Suspect #1]",
+            "chris cahill": "[Officer #1]",
+            "braga": "[Officer #4]",
+            "nathan andrew": "[Suspect #1]",
+            "russell": "[Suspect #1]",
+            "christopher cahill": "[Officer #1]",
+            "daguman": "[Victim #1]",
+            "dean hoang": "[Victim #2]",
+            "mcpherson": "[Officer #5]",
+            "tyler peck": "[Witness #2]",
+            "cory wirtz": "[Witness #1]"
+        },
+        "accessing_users": [
+            {
+                "attorney": "brijesh.mangroliya@scalecapacity.com"
+            },
+            {
+                "clerk": "dhruv.raval@scalecapacity.com"
+            }
+        ],
+        "suspect": [
+            {
+                "form_to_show": "a3",
+                "race": "White",
+                "form_filled": "a2",
+                "name": "NATHAN ANDREW RUSSELL",
+                "x": "The case qualifies for RBF and I believe I was able to conduct a race blind assessment of the case per the requirements of PC 741.",
+                "alias": "suspect1",
+                "view_unredacted_file": false,
+                "y": "Insufficient Evidence and/or No criminal charges filed [NCF]",
+                "all_forms_filled": false
+            },
+            {
+                "form_to_show": "a3",
+                "race": "Unknown",
+                "form_filled": "a2",
+                "name": "ATHENA MAXINE RUSSELL",
+                "x": "The case qualifies for RBF and I believe I was able to conduct a race blind assessment of the case per the requirements of PC 741.",
+                "alias": "suspect2",
+                "view_unredacted_file": false,
+                "y": "Criminal charges filed [CF]",
+                "all_forms_filled": false
+            },
+            {
+                "form_to_show": "a3",
+                "race": "Hispanic",
+                "form_filled": "a2",
+                "name": "MERCEDES SAVALA",
+                "x": "The case qualifies for RBF and I believe I was able to conduct a race blind assessment of the case per the requirements of PC 741.",
+                "alias": "suspect3",
+                "view_unredacted_file": false,
+                "y": "Insufficient Evidence and/or No criminal charges filed [NCF]",
+                "all_forms_filled": false
+            }
+        ],
+        "uploaded_by": "yousuf.mohammad@scalecapacity.com",
+        "officer_count": 6,
+        "assessment_to_be_completed": "a3",
+        "exhibit_id": "D99CI230000271_07116c99-479c-402e-9005-360e3c5b3c66",
+        "victim": [
+            {
+                "name": "RODJARD DAGUMAN",
+                "form_to_show": "a1",
+                "alias": "victim1",
+                "race": "Asian/Pacific Islander"
+            },
+            {
+                "name": "DEAN HOANG",
+                "form_to_show": "a1",
+                "alias": "victim2",
+                "race": "Asian/Pacific Islander"
+            }
+        ],
+        "witness": [
+            {
+                "name": "CORY WIRTZ",
+                "form_to_show": "a1",
+                "alias": "witness1",
+                "race": "White"
+            },
+            {
+                "name": "TYLER PECK",
+                "form_to_show": "a1",
+                "alias": "witness2",
+                "race": "White"
+            }
+        ],
+        "assigned_to_name": "Brijesh Mangroliya",
+        "attorney_id": "54027",
+        "exhibit_type": "pdf",
+        "redaction_index_status": "redacted",
+        "description": "Upload for Demo",
+        "high_priority": false,
+        "assessment_file_key": "D99CI230000271/initial-assessment-data/D99CI230000271_07116c99-479c-402e-9005-360e3c5b3c66.json",
+        "index_status": "redacting"
+    },
+    {
+        "case_number": "88881",
+        "exhibit_name": "EGP report (1).pdf",
+        "status": "closed",
+        "fileKey": "88881/raw-files/EGP report (1).pdf",
+        "accessing_users": [
+            {
+                "clerk": "dhruv.raval@scalecapacity.com"
+            },
+            {
+                "attorney": "kavan.patel@scalecapacity.com"
+            }
+        ],
+        "uploaded_by": "yousuf.mohammad@scalecapacity.com",
+        "exhibit_id": "88881_ea0e4e5e-6e8a-4e88-abc8-c06e0fc503a9",
+        "assigned_to_name": "Kavan Patel",
+        "exhibit_type": "pdf",
+        "assessment_file_key": "88881/initial-assessment-data/88881_ea0e4e5e-6e8a-4e88-abc8-c06e0fc503a9.json",
+        "index_status": "redacting",
+        "returned_to_agency": true,
+        "uploaded_at": "2024-10-08 19:08:15",
+        "name_mapping_dict": {
+            "mercedes savala": "[Suspect #3]",
+            "michael nguyen": "[Officer #2]",
+            "salava": "[Officer #6]",
+            "athena maxine russell": "[Suspect #2]",
+            "state of ca": "[Victim #3]",
+            "rodjard daguman": "[Victim #1]",
+            "nathan andrew russell": "[Suspect #1]",
+            "braga": "[Officer #4]",
+            "christopher cahill": "[Officer #1]",
+            "dean hoang": "[Victim #2]",
+            "mcpherson": "[Officer #5]",
+            "tyler peck": "[Witness #2]",
+            "cory wirtz": "[Witness #1]",
+            "jones": "[Officer #3]"
+        },
+        "suspect": [
+            {
+                "form_to_show": "a3",
+                "race": "White",
+                "form_filled": "a3",
+                "name": "NATHAN ANDREW RUSSELL",
+                "x": "Criminal charges filed [CF]",
+                "alias": "suspect1",
+                "view_unredacted_file": false,
+                "y": "Insufficient Evidence and/or No criminal charges filed [NCF]",
+                "all_forms_filled": true
+            },
+            {
+                "form_to_show": "a2",
+                "race": "Unknown",
+                "form_filled": "a2",
+                "name": "ATHENA MAXINE RUSSELL",
+                "alias": "suspect2",
+                "view_unredacted_file": false,
+                "all_forms_filled": true
+            },
+            {
+                "form_to_show": "a3",
+                "race": "Hispanic",
+                "form_filled": "a3",
+                "name": "MERCEDES SAVALA",
+                "x": "Criminal charges filed [CF]",
+                "alias": "suspect3",
+                "view_unredacted_file": false,
+                "y": "Insufficient Evidence and/or No criminal charges filed [NCF]",
+                "all_forms_filled": true
+            }
+        ],
+        "officer_count": 6,
+        "assessment_to_be_completed": "closed",
+        "updated_existing_redaction": true,
+        "added_new_redaction": true,
+        "victim": [
+            {
+                "name": "RODJARD DAGUMAN",
+                "form_to_show": "a1",
+                "alias": "victim1",
+                "race": "ASIAN/PACIFIC ISLANDER"
+            },
+            {
+                "name": "DEAN HOANG",
+                "form_to_show": "a1",
+                "alias": "victim2",
+                "race": "ASIAN/PACIFIC ISLANDER"
+            },
+            {
+                "name": "STATE OF CA",
+                "form_to_show": "a1",
+                "alias": "victim3",
+                "race": "Unknown"
+            }
+        ],
+        "witness": [
+            {
+                "name": "CORY WIRTZ",
+                "form_to_show": "a1",
+                "alias": "witness1",
+                "race": "White"
+            },
+            {
+                "name": "TYLER PECK",
+                "form_to_show": "a1",
+                "alias": "witness2",
+                "race": "White"
+            },
+            {
+                "name": "unknown",
+                "form_to_show": "a1",
+                "alias": "witness3",
+                "race": "unknown"
+            }
+        ],
+        "attorney_id": "18706",
+        "redaction_index_status": "redacted",
+        "description": "test-1",
+        "high_priority": false
+    },
+    {
+        "case_number": "C93333677883344",
+        "returned_to_agency": false,
+        "exhibit_name": "EGP report.pdf",
+        "status": "disqualified",
+        "fileKey": "C93333677883344/raw-files/EGP report.pdf",
+        "uploaded_at": "2024-10-19 09:00:11",
+        "name_mapping_dict": {
+            "braga": "[Officer #4]",
+            "mercedes savala": "[Suspect #3]",
+            "j  jones": "[Officer #3]",
+            "michael nguyen": "[Officer #2]",
+            "christopher cahill": "[Officer #1]",
+            "dean hoang": "[Victim #2]",
+            "athena maxine russell": "[Suspect #2]",
+            "mcpherson": "[Officer #5]",
+            "tyler peck": "[Witness #2]",
+            "cory wirtz": "[Witness #1]",
+            "rodjard daguman": "[Victim #1]",
+            "nathan andrew russell": "[Suspect #1]"
+        },
+        "accessing_users": [
+            {
+                "attorney": "kavan.patel@scalecapacity.com"
+            },
+            {
+                "clerk": "dhruv.raval@scalecapacity.com"
+            }
+        ],
+        "suspect": [
+            {
+                "form_to_show": "a2",
+                "race": "White",
+                "form_filled": "a1",
+                "name": "NATHAN ANDREW RUSSELL",
+                "alias": "suspect1",
+                "view_unredacted_file": false,
+                "all_forms_filled": false
+            },
+            {
+                "form_to_show": "a2",
+                "race": "Unknown",
+                "form_filled": "a1",
+                "name": "Athena Maxine Russell",
+                "alias": "suspect2",
+                "view_unredacted_file": false,
+                "all_forms_filled": false
+            },
+            {
+                "form_to_show": "a2",
+                "race": "Hispanic",
+                "form_filled": "a1",
+                "name": "MERCEDES SAVALA",
+                "alias": "suspect3",
+                "view_unredacted_file": false,
+                "all_forms_filled": false
+            }
+        ],
+        "uploaded_by": "yousuf.mohammad@scalecapacity.com",
+        "officer_count": 5,
+        "assessment_to_be_completed": "a1",
+        "exhibit_id": "C93333677883344_986c44f3-e36a-4e42-af4d-b426c2c033be",
+        "victim": [
+            {
+                "name": "RODJARD DAGUMAN",
+                "form_to_show": "a1",
+                "alias": "victim1",
+                "race": "ASIAN"
+            },
+            {
+                "name": "DEAN HOANG",
+                "form_to_show": "a1",
+                "alias": "victim2",
+                "race": "ASIAN"
+            }
+        ],
+        "witness": [
+            {
+                "name": "cory wirtz",
+                "form_to_show": "a1",
+                "alias": "witness1",
+                "race": "White"
+            },
+            {
+                "name": "tyler peck",
+                "form_to_show": "a1",
+                "alias": "witness2",
+                "race": "White"
+            }
+        ],
+        "assigned_to_name": "Kavan Patel",
+        "attorney_id": "18706",
+        "exhibit_type": "pdf",
+        "redaction_index_status": "redacted",
+        "description": "test new A1",
+        "high_priority": false,
+        "assessment_file_key": "C93333677883344/initial-assessment-data/C93333677883344_986c44f3-e36a-4e42-af4d-b426c2c033be.json",
+        "index_status": "redacting"
+    },
+    {
+        "case_number": "88882",
+        "exhibit_name": "EGP report (1).pdf",
+        "status": "closed",
+        "fileKey": "88882/raw-files/EGP report (1).pdf",
+        "removed_existing_redaction": true,
+        "accessing_users": [
+            {
+                "clerk": "dhruv.raval@scalecapacity.com"
+            },
+            {
+                "attorney": "kavan.patel@scalecapacity.com"
+            }
+        ],
+        "uploaded_by": "yousuf.mohammad@scalecapacity.com",
+        "exhibit_id": "88882_2e9ba7b7-0187-4f8b-97c2-afadddf20018",
+        "assigned_to_name": "Kavan Patel",
+        "exhibit_type": "pdf",
+        "assessment_file_key": "88882/initial-assessment-data/88882_2e9ba7b7-0187-4f8b-97c2-afadddf20018.json",
+        "index_status": "redacting",
+        "returned_to_agency": true,
+        "uploaded_at": "2024-10-08 19:39:48",
+        "name_mapping_dict": {
+            "mercedes savala": "[Suspect #3]",
+            "michael nguyen": "[Officer #2]",
+            "salava": "[Officer #6]",
+            "athena maxine russell": "[Suspect #2]",
+            "state of ca": "[Victim #3]",
+            "rodjard daguman": "[Victim #1]",
+            "nathan andrew russell": "[Suspect #1]",
+            "braga": "[Officer #4]",
+            "christopher cahill": "[Officer #1]",
+            "dean hoang": "[Victim #2]",
+            "mcpherson": "[Officer #5]",
+            "tyler peck": "[Witness #2]",
+            "cory wirtz": "[Witness #1]",
+            "jones": "[Officer #3]"
+        },
+        "suspect": [
+            {
+                "form_to_show": "a3",
+                "race": "White",
+                "form_filled": "a3",
+                "name": "NATHAN ANDREW RUSSELL",
+                "x": "Criminal charges filed [CF]",
+                "alias": "suspect1",
+                "view_unredacted_file": false,
+                "y": "Insufficient Evidence and/or No criminal charges filed [NCF]",
+                "all_forms_filled": true
+            },
+            {
+                "form_to_show": "a2",
+                "race": "Unknown",
+                "form_filled": "a2",
+                "name": "ATHENA MAXINE RUSSELL",
+                "alias": "suspect2",
+                "view_unredacted_file": false,
+                "all_forms_filled": true
+            },
+            {
+                "form_to_show": "a3",
+                "race": "Hispanic",
+                "form_filled": "a3",
+                "name": "MERCEDES SAVALA",
+                "x": "Insufficient Evidence and/or No criminal charges filed [NCF]",
+                "alias": "suspect3",
+                "view_unredacted_file": false,
+                "y": "Criminal charges filed [CF]",
+                "all_forms_filled": true
+            }
+        ],
+        "officer_count": 6,
+        "assessment_to_be_completed": "closed",
+        "updated_existing_redaction": true,
+        "added_new_redaction": true,
+        "victim": [
+            {
+                "name": "RODJARD DAGUMAN",
+                "form_to_show": "a1",
+                "alias": "victim1",
+                "race": "ASIAN/PACIFIC ISLANDER"
+            },
+            {
+                "name": "DEAN HOANG",
+                "form_to_show": "a1",
+                "alias": "victim2",
+                "race": "ASIAN/PACIFIC ISLANDER"
+            },
+            {
+                "name": "STATE OF CA",
+                "form_to_show": "a1",
+                "alias": "victim3",
+                "race": "Unknown"
+            }
+        ],
+        "witness": [
+            {
+                "name": "CORY WIRTZ",
+                "form_to_show": "a1",
+                "alias": "witness1",
+                "race": "White"
+            },
+            {
+                "name": "TYLER PECK",
+                "form_to_show": "a1",
+                "alias": "witness2",
+                "race": "White"
+            },
+            {
+                "name": "unknown",
+                "form_to_show": "a1",
+                "alias": "witness3",
+                "race": "unknown"
+            }
+        ],
+        "attorney_id": "18706",
+        "redaction_index_status": "redacted",
+        "description": "test-3",
+        "high_priority": false
+    },
+    {
+        "case_number": "9333367788",
+        "returned_to_agency": false,
+        "exhibit_name": "EGP report.pdf",
+        "status": "disqualified",
+        "fileKey": "9333367788/raw-files/EGP report.pdf",
+        "uploaded_at": "2024-10-22 14:05:02",
+        "name_mapping_dict": {
+            "braga": "[Officer #4]",
+            "mercedes savala": "[Suspect #3]",
+            "j  jones": "[Officer #3]",
+            "michael nguyen": "[Officer #2]",
+            "christopher cahill": "[Officer #1]",
+            "dean hoang": "[Victim #2]",
+            "athena maxine russell": "[Suspect #2]",
+            "mcpherson": "[Officer #5]",
+            "tyler peck": "[Witness #2]",
+            "cory wirtz": "[Witness #1]",
+            "rodjard daguman": "[Victim #1]",
+            "nathan andrew russell": "[Suspect #1]"
+        },
+        "accessing_users": [
+            {
+                "attorney": "kavan.patel@scalecapacity.com"
+            },
+            {
+                "clerk": "dhruv.patel@scalecapacity.com"
+            }
+        ],
+        "suspect": [
+            {
+                "form_to_show": "a1",
+                "race": "White",
+                "form_filled": "a1",
+                "name": "NATHAN ANDREW RUSSELL",
+                "alias": "suspect1",
+                "view_unredacted_file": true,
+                "all_forms_filled": false
+            },
+            {
+                "form_to_show": "a1",
+                "race": "Unknown",
+                "form_filled": "a1",
+                "name": "Athena Maxine Russell",
+                "alias": "suspect2",
+                "view_unredacted_file": true,
+                "all_forms_filled": false
+            },
+            {
+                "name": "MERCEDES SAVALA",
+                "form_to_show": "a1",
+                "alias": "suspect3",
+                "race": "Hispanic"
+            }
+        ],
+        "uploaded_by": "yousuf.mohammad@scalecapacity.com",
+        "officer_count": 5,
+        "assessment_to_be_completed": "a1",
+        "exhibit_id": "9333367788_b7ccc31e-bc6a-4a32-93f8-8f847ca30a93",
+        "victim": [
+            {
+                "name": "RODJARD DAGUMAN",
+                "form_to_show": "a1",
+                "alias": "victim1",
+                "race": "ASIAN"
+            },
+            {
+                "name": "DEAN HOANG",
+                "form_to_show": "a1",
+                "alias": "victim2",
+                "race": "ASIAN"
+            }
+        ],
+        "witness": [
+            {
+                "name": "cory wirtz",
+                "form_to_show": "a1",
+                "alias": "witness1",
+                "race": "White"
+            },
+            {
+                "name": "tyler peck",
+                "form_to_show": "a1",
+                "alias": "witness2",
+                "race": "White"
+            }
+        ],
+        "assigned_to_name": "Kavan Patel",
+        "attorney_id": "18706",
+        "exhibit_type": "pdf",
+        "redaction_index_status": "redacted",
+        "description": "test New A1",
+        "high_priority": false,
+        "assessment_file_key": "9333367788/initial-assessment-data/9333367788_b7ccc31e-bc6a-4a32-93f8-8f847ca30a93.json",
+        "index_status": "redacting"
+    },
+    {
+        "case_number": "37 pg test",
+        "exhibit_name": "37 page report with lab.pdf",
+        "status": "redacted",
+        "fileKey": "37 pg test/raw-files/37 page report with lab.pdf",
+        "uploaded_at": "2024-10-23 21:16:36",
+        "name_mapping_dict": {
+            "pablo cooper": "[Officer #10]",
+            "jessica khalil": "[Officer #1]",
+            "tagorda": "[Officer #6]",
+            "n  mercado": "[Officer #8]",
+            "de huna": "[Officer #17]",
+            "khalil  j": "[Officer #1]",
+            "sarita ellison": "[Officer #11]",
+            "joseph england": "[Officer #4]",
+            "nguyen": "[Officer #7]",
+            "tharp  randy charles": "[Victim #1]",
+            "j  khalil": "[Officer #1]",
+            "mercado": "[Officer #8]",
+            "khalil": "[Officer #1]",
+            "ellison  sarita": "[Officer #11]",
+            "randy tharpe": "[Victim #1]",
+            "sarina sigmon": "[Officer #15]",
+            "contreras andrade": "[Suspect #1]",
+            "yvonne cuellar": "[Officer #12]",
+            "natasha wolfe": "[Officer #9]",
+            "a  mandujano": "[Officer #5]",
+            "de luma": "[Officer #17]",
+            "tharp  randy": "[Victim #1]",
+            "binh nguyen": "[Officer #7]",
+            "n a": "[Officer #13]",
+            "khaul": "[Officer #1]",
+            "randy charles tharp": "[Victim #1]",
+            "ulysses": "[Suspect #1]",
+            "monica siegrist": "[Officer #16]",
+            "hodges": "[Officer #2]",
+            "ulysses arath contreras": "[Suspect #1]",
+            "arath": "[Suspect #1]",
+            "contreras  ulysses arath": "[Suspect #1]",
+            "brandon hodges": "[Officer #2]",
+            "contreras andrade   ulysses": "[Suspect #1]",
+            "nemuel mercado": "[Officer #8]",
+            "brenda weiss": "[Officer #18]",
+            "khaiil": "[Officer #1]",
+            "platzner": "[Officer #3]",
+            "contreras ulysses": "[Suspect #1]",
+            "vlysses": "[Suspect #1]",
+            "sarma sigmon": "[Officer #15]",
+            "khalil  jessica": "[Officer #1]",
+            "contreras andrade  ulysses": "[Suspect #1]",
+            "mercato": "[Officer #8]",
+            "ulysses arath": "[Suspect #1]",
+            "j": "[Officer #14]",
+            "reynald deluna": "[Officer #17]",
+            "n": "[Officer #13]",
+            "andrade": "[Suspect #1]",
+            "contreras": "[Suspect #1]",
+            "n scl": "[Officer #13]",
+            "tharp": "[Victim #1]",
+            "ulysses arath contreras andrade": "[Suspect #1]"
+        },
+        "accessing_users": [
+            {
+                "attorney": "attorney-rbc@contracostada.org"
+            },
+            {
+                "clerk": "dhruv.raval@scalecapacity.com"
+            }
+        ],
+        "suspect": [
+            {
+                "name": "Ulysses Arath Contreras Andrade",
+                "form_to_show": "a1",
+                "alias": "suspect1",
+                "race": "Hispanic"
+            }
+        ],
+        "uploaded_by": "clerk-rbc@contracostada.org",
+        "officer_count": 35,
+        "assessment_to_be_completed": "a1",
+        "exhibit_id": "37 pg test_c0d993b7-a583-418c-9049-ebae7264bb5c",
+        "victim": [
+            {
+                "name": "Randy Charles Tharp",
+                "form_to_show": "a1",
+                "alias": "victim1",
+                "race": "White"
+            }
+        ],
+        "assigned_to_name": "James Mount",
+        "attorney_id": "55486",
+        "exhibit_type": "pdf",
+        "redaction_index_status": "redacted",
+        "description": "37 page report ",
+        "high_priority": false,
+        "index_status": "redacting"
+    },
+    {
+        "case_number": "test 6 pg",
+        "exhibit_name": "6 page report.pdf",
+        "status": "redacted",
+        "fileKey": "test 6 pg/raw-files/6 page report.pdf",
+        "uploaded_at": "2024-10-23 21:14:07",
+        "name_mapping_dict": {
+            "baker jordan": "[Suspect #1]",
+            "maria chavezgomez": "[Witness #1]",
+            "chavezgomez  maria": "[Witness #1]",
+            "moesha baker": "[Suspect #1]",
+            "baker moesha monique": "[Suspect #1]",
+            "baker": "[Suspect #1]",
+            "kellogg": "[Officer #1]",
+            "young timothy": "[Officer #2]",
+            "chavez gomez": "[Witness #1]",
+            "maria chavez gomez": "[Witness #1]"
+        },
+        "accessing_users": [
+            {
+                "attorney": "attorney-rbc@contracostada.org"
+            },
+            {
+                "clerk": "dhruv.patel@scalecapacity.com"
+            }
+        ],
+        "suspect": [
+            {
+                "name": "Moesha Baker",
+                "form_to_show": "a1",
+                "alias": "suspect1",
+                "race": "Black"
+            }
+        ],
+        "uploaded_by": "clerk-rbc@contracostada.org",
+        "officer_count": 2,
+        "assessment_to_be_completed": "a1",
+        "exhibit_id": "test 6 pg_0cbed520-2354-4913-97d9-20090dfb7f9a",
+        "witness": [
+            {
+                "name": "Maria Chavezgomez",
+                "form_to_show": "a1",
+                "alias": "witness1",
+                "race": "White"
+            }
+        ],
+        "assigned_to_name": "James Mount",
+        "attorney_id": "55486",
+        "exhibit_type": "pdf",
+        "redaction_index_status": "redacted",
+        "description": "6 page report ",
+        "high_priority": false,
+        "index_status": "redacting"
+    },
+    {
+        "case_number": "88882",
+        "exhibit_name": "SamplePoliceReport.pdf",
+        "status": "closed",
+        "fileKey": "88882/raw-files/SamplePoliceReport.pdf",
+        "removed_existing_redaction": true,
+        "accessing_users": [
+            {
+                "clerk": "dhruv.patel@scalecapacity.com"
+            },
+            {
+                "attorney": "kavan.patel@scalecapacity.com"
+            }
+        ],
+        "uploaded_by": "yousuf.mohammad@scalecapacity.com",
+        "exhibit_id": "88882_9d7c95ec-00e1-4e6e-9f7f-fe056450a743",
+        "assigned_to_name": "Kavan Patel",
+        "exhibit_type": "pdf",
+        "assessment_file_key": "88882/initial-assessment-data/88882_9d7c95ec-00e1-4e6e-9f7f-fe056450a743.json",
+        "index_status": "redacting",
+        "uploaded_at": "2024-10-08 19:08:37",
+        "name_mapping_dict": {
+            "john smith": "[Officer #1]",
+            "maria rodriguez": "[Witness #1]",
+            "jane doe": "[Officer #2]",
+            "jamal harris": "[Suspect #1]",
+            "david chen": "[Witness #2]"
+        },
+        "suspect": [
+            {
+                "form_to_show": "a2",
+                "race": "African American",
+                "form_filled": "a2",
+                "name": "Jamal Harris",
+                "alias": "suspect1",
+                "view_unredacted_file": false,
+                "all_forms_filled": true
+            }
+        ],
+        "officer_count": 2,
+        "assessment_to_be_completed": "closed",
+        "updated_existing_redaction": true,
+        "added_new_redaction": true,
+        "victim": [],
+        "witness": [
+            {
+                "name": "Maria Rodriguez",
+                "form_to_show": "a1",
+                "alias": "witness1",
+                "race": "Hispanic"
+            },
+            {
+                "name": "David Chen",
+                "form_to_show": "a1",
+                "alias": "witness2",
+                "race": "Asian"
+            }
+        ],
+        "attorney_id": "18706",
+        "redaction_index_status": "redacted",
+        "description": "test-2",
+        "high_priority": false
+    },
+    {
+        "case_number": "013-1018891",
+        "exhibit_name": "013-1018891.pdf",
+        "status": "redacted",
+        "fileKey": "013-1018891/raw-files/013-1018891.pdf",
+        "uploaded_at": "2024-10-14 16:43:03",
+        "name_mapping_dict": {
+            "officer berti": "[Officer #3]",
+            "adriana medina": "[Officer #7]",
+            "refus": "[Suspect #2]",
+            "harris rufus": "[Suspect #2]",
+            "officer": "[Officer #4]",
+            "martinez": "[Officer #6]",
+            "adriana media": "[Officer #7]",
+            "dieukevin": "[Witness #1]",
+            "media": "[Officer #7]",
+            "ricky": "[Officer #5]",
+            "vanrooyen": "[Officer #2]",
+            "berti": "[Officer #3]",
+            "flores hector": "[Officer #1]",
+            "kevin": "[Witness #1]",
+            "s harris rufus": "[Suspect #2]",
+            "andres cisneros": "[Officer #9]",
+            "dieu kevin": "[Witness #1]",
+            "dieu": "[Witness #1]",
+            "hernandez": "[Officer #10]",
+            "rufus": "[Suspect #2]",
+            "rufus harris": "[Suspect #2]",
+            "unknownunknown": "[Suspect #1]",
+            "officer flores": "[Officer #8]",
+            "vanrooyen gef": "[Officer #2]",
+            "los reyes taqueria": "[Victim #1]",
+            "officer badge": "[Officer #4]",
+            "martinez alicia": "[Officer #6]",
+            "ofc alicia martinez": "[Officer #6]",
+            "officer melgoza": "[Officer #4]",
+            "harris": "[Suspect #2]",
+            "pauline harris": "[Suspect #2]",
+            "vanrooyen gerrit": "[Officer #2]",
+            "andres": "[Officer #9]",
+            "taqueria": "[Victim #1]",
+            "j hernandez": "[Officer #10]",
+            "vanrooyen gerri": "[Officer #2]",
+            "cisneros andres": "[Officer #9]",
+            "harrisrufus": "[Suspect #2]"
+        },
+        "accessing_users": [
+            {
+                "clerk": "dhruv.patel@scalecapacity.com"
+            },
+            {
+                "attorney": "attorney-rbc@contracostada.org"
+            },
+            {
+                "clerk": "dhruv.raval@scalecapacity.com"
+            }
+        ],
+        "suspect": [
+            {
+                "name": "UNKNOWN,UNKNOWN",
+                "form_to_show": "a1",
+                "alias": "suspect1",
+                "race": "Black"
+            },
+            {
+                "name": "HARRIS,RUFUS",
+                "form_to_show": "a1",
+                "alias": "suspect2",
+                "race": "Black"
+            },
+            {
+                "name": "UNKNOWN,UNKNOWN",
+                "form_to_show": "a1",
+                "alias": "suspect1",
+                "race": "Black"
+            },
+            {
+                "name": "HARRIS,RUFUS",
+                "form_to_show": "a1",
+                "alias": "suspect2",
+                "race": "Black"
+            },
+            {
+                "name": "UNKNOWN,UNKNOWN",
+                "form_to_show": "a1",
+                "alias": "suspect1",
+                "race": "Black"
+            },
+            {
+                "name": "HARRIS,RUFUS",
+                "form_to_show": "a1",
+                "alias": "suspect2",
+                "race": "Black"
+            }
+        ],
+        "uploaded_by": "clerk-rbc@contracostada.org",
+        "officer_count": 23,
+        "assessment_to_be_completed": "a1",
+        "exhibit_id": "013-1018891_624fd038-ca88-460f-ace3-f2fbe8492572",
+        "victim": [
+            {
+                "name": "LOS REYES TAQUERIA",
+                "form_to_show": "a1",
+                "alias": "victim1",
+                "race": "Unknown"
+            },
+            {
+                "name": "LOS REYES TAQUERIA",
+                "form_to_show": "a1",
+                "alias": "victim1",
+                "race": "Unknown"
+            },
+            {
+                "name": "LOS REYES TAQUERIA",
+                "form_to_show": "a1",
+                "alias": "victim1",
+                "race": "Unknown"
+            }
+        ],
+        "witness": [
+            {
+                "name": "DIEU,KEVIN",
+                "form_to_show": "a1",
+                "alias": "witness1",
+                "race": "White"
+            },
+            {
+                "name": "DIEU,KEVIN",
+                "form_to_show": "a1",
+                "alias": "witness1",
+                "race": "White"
+            },
+            {
+                "name": "DIEU,KEVIN",
+                "form_to_show": "a1",
+                "alias": "witness1",
+                "race": "White"
+            }
+        ],
+        "assigned_to_name": "James Mount",
+        "attorney_id": "55486",
+        "exhibit_type": "pdf",
+        "redaction_index_status": "redacted",
+        "description": "Test",
+        "high_priority": false,
+        "index_status": "redacting"
+    },
+    {
+        "case_number": "C93333677132456",
+        "exhibit_name": "EGP report.pdf",
+        "status": "rta",
+        "fileKey": "C93333677132456/raw-files/EGP report.pdf",
+        "removed_existing_redaction": true,
+        "accessing_users": [
+            {
+                "clerk": "dhruv.patel@scalecapacity.com"
+            },
+            {
+                "attorney": "kavan.patel@scalecapacity.com"
+            }
+        ],
+        "uploaded_by": "yousuf.mohammad@scalecapacity.com",
+        "exhibit_id": "C93333677132456_f0ee967f-e130-4091-8580-2674be75ab14",
+        "assigned_to_name": "Kavan Patel",
+        "exhibit_type": "pdf",
+        "assessment_file_key": "C93333677132456/initial-assessment-data/C93333677132456_f0ee967f-e130-4091-8580-2674be75ab14.json",
+        "index_status": "redacting",
+        "returned_to_agency": true,
+        "uploaded_at": "2024-10-09 13:41:06",
+        "name_mapping_dict": {
+            "braga": "[Officer #4]",
+            "mercedes savala": "[Suspect #3]",
+            "j  jones": "[Officer #3]",
+            "michael nguyen": "[Officer #2]",
+            "christopher cahill": "[Officer #1]",
+            "dean hoang": "[Victim #2]",
+            "athena maxine russell": "[Suspect #2]",
+            "mcpherson": "[Officer #5]",
+            "tyler peck": "[Witness #2]",
+            "cory wirtz": "[Witness #1]",
+            "rodjard daguman": "[Victim #1]",
+            "nathan andrew russell": "[Suspect #1]"
+        },
+        "suspect": [
+            {
+                "form_to_show": "a3",
+                "race": "White",
+                "form_filled": "a2",
+                "name": "NATHAN ANDREW RUSSELL",
+                "x": "Criminal charges filed [CF]",
+                "alias": "suspect1",
+                "view_unredacted_file": false,
+                "y": "Insufficient Evidence and/or No criminal charges filed [NCF]",
+                "all_forms_filled": false
+            },
+            {
+                "form_to_show": "a2",
+                "race": "Unknown",
+                "form_filled": "a1",
+                "name": "Athena Maxine Russell",
+                "alias": "suspect2",
+                "view_unredacted_file": false,
+                "all_forms_filled": false
+            },
+            {
+                "form_to_show": "a2",
+                "race": "Hispanic",
+                "form_filled": "a1",
+                "name": "MERCEDES SAVALA",
+                "alias": "suspect3",
+                "view_unredacted_file": false,
+                "all_forms_filled": false
+            }
+        ],
+        "officer_count": 5,
+        "assessment_to_be_completed": "a2",
+        "updated_existing_redaction": true,
+        "added_new_redaction": true,
+        "victim": [
+            {
+                "name": "RODJARD DAGUMAN",
+                "form_to_show": "a1",
+                "alias": "victim1",
+                "race": "ASIAN"
+            },
+            {
+                "name": "DEAN HOANG",
+                "form_to_show": "a1",
+                "alias": "victim2",
+                "race": "ASIAN"
+            }
+        ],
+        "witness": [
+            {
+                "name": "cory wirtz",
+                "form_to_show": "a1",
+                "alias": "witness1",
+                "race": "White"
+            },
+            {
+                "name": "tyler peck",
+                "form_to_show": "a1",
+                "alias": "witness2",
+                "race": "White"
+            }
+        ],
+        "attorney_id": "18706",
+        "redaction_index_status": "redacted",
+        "description": "Updates for CCC",
+        "high_priority": false
+    },
+    {
+        "case_number": "013-1018806",
+        "exhibit_name": "013-1018806.pdf",
+        "status": "redacting",
+        "fileKey": "013-1018806/raw-files/013-1018806.pdf",
+        "uploaded_at": "2024-10-14 16:46:36",
+        "name_mapping_dict": {
+            "brooke kobold": "[Officer #1]",
+            "kobold brooke": "[Officer #1]",
+            "jonah norman": "[Officer #2]",
+            "fatimah renee buford": "[Victim #1]",
+            "buford abasi jaja": "[Suspect #1]",
+            "abasi jaja buford": "[Suspect #1]",
+            "fatimah buford": "[Victim #1]",
+            "biama anthony": "[Officer #3]",
+            "buford  abasi": "[Suspect #1]",
+            "buford abasi": "[Suspect #1]",
+            "fatimah": "[Victim #1]",
+            "abasi": "[Suspect #1]",
+            "abasi buford": "[Suspect #1]",
+            "buford fatimah": "[Victim #1]",
+            "buford abas": "[Suspect #1]",
+            "buford fatimah renee": "[Victim #1]",
+            "brooke": "[Officer #1]"
+        },
+        "accessing_users": [
+            {
+                "clerk": "dhruv.raval@scalecapacity.com"
+            },
+            {
+                "attorney": "attorney-rbc@contracostada.org"
+            }
+        ],
+        "suspect": [
+            {
+                "name": "Abasi Jaja Buford",
+                "form_to_show": "a1",
+                "alias": "suspect1",
+                "race": "Black"
+            },
+            {
+                "name": "Abasi Jaja Buford",
+                "form_to_show": "a1",
+                "alias": "suspect1",
+                "race": "Black"
+            }
+        ],
+        "uploaded_by": "clerk-rbc@contracostada.org",
+        "officer_count": 5,
+        "assessment_to_be_completed": "a1",
+        "exhibit_id": "013-1018806_79140774-6ed9-4b4c-a4bd-3cd094b88726",
+        "victim": [
+            {
+                "name": "Fatimah Renee Buford",
+                "form_to_show": "a1",
+                "alias": "victim1",
+                "race": "Black"
+            },
+            {
+                "name": "Fatimah Renee Buford",
+                "form_to_show": "a1",
+                "alias": "victim1",
+                "race": "Black"
+            }
+        ],
+        "assigned_to_name": "James Mount",
+        "attorney_id": "55486",
+        "exhibit_type": "pdf",
+        "redaction_index_status": "redacted",
+        "description": "Test 2",
+        "disqualify_reasons": [
+            {
+                "isChecked": true,
+                "caseTypes": [
+                    "Sex crimes"
+                ],
+                "label": "The case should be disqualified from Race Blind Filing review for the reason/s indicated below [check all that apply]:"
+            }
+        ],
+        "high_priority": false,
+        "index_status": "redacting"
+    },
+    {
+        "case_number": "013-1018885",
+        "exhibit_name": "013-1018885 11 page report.pdf",
+        "status": "redacted",
+        "fileKey": "013-1018885/raw-files/013-1018885 11 page report.pdf",
+        "uploaded_at": "2024-10-14 15:08:58",
+        "name_mapping_dict": {
+            "ponce jose": "[Suspect #1]",
+            "rounsaville joseph michael": "[Victim #1]",
+            "jose ponce": "[Suspect #1]",
+            "berti joseph": "[Victim #1]",
+            "thompson robert": "[Officer #2]",
+            "joseph joseph": "[Officer #5]",
+            "joseph rounsaville": "[Victim #1]",
+            "ofc joseph berti": "[Victim #1]",
+            "jose": "[Suspect #1]",
+            "harris el": "[Officer #4]",
+            "ofc job mejia": "[Victim #1]",
+            "berti": "[Victim #1]",
+            "ofc harris el": "[Officer #4]",
+            "jesus": "[Officer #1]",
+            "ofc cardona": "[Officer #3]",
+            "jose jose": "[Suspect #1]",
+            "ponce jose jesus": "[Suspect #1]",
+            "barnett marie louann": "[Witness #1]",
+            "marie": "[Witness #1]",
+            "thompson": "[Officer #2]",
+            "harris el justin": "[Officer #4]",
+            "marie barnett": "[Witness #1]",
+            "joseph": "[Officer #5]"
+        },
+        "accessing_users": [
+            {
+                "clerk": "dhruv.raval@scalecapacity.com"
+            },
+            {
+                "attorney": "attorney-rbc@contracostada.org"
+            },
+            {
+                "clerk": "dhruv.patel@scalecapacity.com"
+            }
+        ],
+        "suspect": [
+            {
+                "form_to_show": "a3",
+                "race": "White",
+                "form_filled": "a3",
+                "name": "Jose Ponce",
+                "x": "Criminal charges filed [CF]",
+                "alias": "suspect1",
+                "view_unredacted_file": false,
+                "y": "Insufficient Evidence and/or No criminal charges filed [NCF]",
+                "all_forms_filled": true
+            },
+            {
+                "name": "Jose Ponce",
+                "form_to_show": "a1",
+                "alias": "suspect1",
+                "race": "White"
+            },
+            {
+                "name": "Jose Ponce",
+                "form_to_show": "a1",
+                "alias": "suspect1",
+                "race": "Unknown"
+            },
+            {
+                "name": "Jose Ponce",
+                "form_to_show": "a1",
+                "alias": "suspect1",
+                "race": "White"
+            },
+            {
+                "name": "Jose Ponce",
+                "form_to_show": "a1",
+                "alias": "suspect1",
+                "race": "White"
+            },
+            {
+                "name": "Jose Ponce",
+                "form_to_show": "a1",
+                "alias": "suspect1",
+                "race": "White"
+            },
+            {
+                "name": "Jose Ponce",
+                "form_to_show": "a1",
+                "alias": "suspect1",
+                "race": "White"
+            },
+            {
+                "name": "Jose Ponce",
+                "form_to_show": "a1",
+                "alias": "suspect1",
+                "race": "White"
+            },
+            {
+                "name": "Jose Ponce",
+                "form_to_show": "a1",
+                "alias": "suspect1",
+                "race": "White"
+            },
+            {
+                "name": "Jose Ponce",
+                "form_to_show": "a1",
+                "alias": "suspect1",
+                "race": "Unknown"
+            }
+        ],
+        "uploaded_by": "clerk-rbc@contracostada.org",
+        "officer_count": 9,
+        "assessment_to_be_completed": "a1",
+        "exhibit_id": "013-1018885_209dc999-eca6-4c5a-8299-2bcf61929d75",
+        "victim": [
+            {
+                "name": "Joseph Rounsaville",
+                "form_to_show": "a1",
+                "alias": "victim1",
+                "race": "White"
+            },
+            {
+                "name": "Joseph Rounsaville",
+                "form_to_show": "a1",
+                "alias": "victim1",
+                "race": "White"
+            },
+            {
+                "name": "Joseph Rounsaville",
+                "form_to_show": "a1",
+                "alias": "victim1",
+                "race": "White"
+            },
+            {
+                "name": "Joseph Rounsaville",
+                "form_to_show": "a1",
+                "alias": "victim1",
+                "race": "White"
+            },
+            {
+                "name": "Joseph Rounsaville",
+                "form_to_show": "a1",
+                "alias": "victim1",
+                "race": "White"
+            },
+            {
+                "name": "Joseph Rounsaville",
+                "form_to_show": "a1",
+                "alias": "victim1",
+                "race": "White"
+            },
+            {
+                "name": "Joseph Rounsaville",
+                "form_to_show": "a1",
+                "alias": "victim1",
+                "race": "White"
+            },
+            {
+                "name": "Joseph Rounsaville",
+                "form_to_show": "a1",
+                "alias": "victim1",
+                "race": "White"
+            },
+            {
+                "name": "Joseph Rounsaville",
+                "form_to_show": "a1",
+                "alias": "victim1",
+                "race": "White"
+            },
+            {
+                "name": "Joseph Rounsaville",
+                "form_to_show": "a1",
+                "alias": "victim1",
+                "race": "White"
+            }
+        ],
+        "witness": [
+            {
+                "name": "Marie Barnett",
+                "form_to_show": "a1",
+                "alias": "witness1",
+                "race": "White"
+            },
+            {
+                "name": "Marie Barnett",
+                "form_to_show": "a1",
+                "alias": "witness1",
+                "race": "White"
+            },
+            {
+                "name": "Marie Barnett",
+                "form_to_show": "a1",
+                "alias": "witness1",
+                "race": "White"
+            },
+            {
+                "name": "Marie Barnett",
+                "form_to_show": "a1",
+                "alias": "witness1",
+                "race": "White"
+            },
+            {
+                "name": "Marie Barnett",
+                "form_to_show": "a1",
+                "alias": "witness1",
+                "race": "White"
+            },
+            {
+                "name": "Marie Barnett",
+                "form_to_show": "a1",
+                "alias": "witness1",
+                "race": "White"
+            },
+            {
+                "name": "Marie Barnett",
+                "form_to_show": "a1",
+                "alias": "witness1",
+                "race": "White"
+            },
+            {
+                "name": "Marie Barnett",
+                "form_to_show": "a1",
+                "alias": "witness1",
+                "race": "White"
+            },
+            {
+                "name": "Marie Barnett",
+                "form_to_show": "a1",
+                "alias": "witness1",
+                "race": "White"
+            },
+            {
+                "name": "Marie Barnett",
+                "form_to_show": "a1",
+                "alias": "witness1",
+                "race": "White"
+            }
+        ],
+        "assigned_to_name": "James Mount",
+        "attorney_id": "55486",
+        "exhibit_type": "pdf",
+        "redaction_index_status": "redacted",
+        "description": "RBF Report",
+        "high_priority": false,
+        "assessment_file_key": "013-1018885/initial-assessment-data/013-1018885_209dc999-eca6-4c5a-8299-2bcf61929d75.json",
+        "index_status": "redacting"
+    },
+    {
+        "case_number": "34567",
+        "exhibit_name": "PR-20-24-7289.pdf",
+        "status": "closed",
+        "fileKey": "34567/raw-files/PR-20-24-7289.pdf",
+        "uploaded_at": "2024-10-03 15:25:44",
+        "name_mapping_dict": {
+            "deshawn black": "[Suspect #1]",
+            "mclendon": "[Officer #4]",
+            "ruben alejo": "[Witness #1]",
+            "mudd benjamin": "[Officer #2]",
+            "black": "[Officer #5]",
+            "d whedbee": "[Victim #2]",
+            "arr deshawn": "[Officer #3]",
+            "figaro rashad": "[Officer #1]",
+            "shepherd": "[Officer #6]",
+            "figaro": "[Officer #8]",
+            "deshain": "[Officer #7]",
+            "hartt": "[Victim #1]"
+        },
+        "accessing_users": [
+            {
+                "clerk": "dhruv.patel@scalecapacity.com"
+            },
+            {
+                "attorney": "attorney-rbc@contracostada.org"
+            }
+        ],
+        "suspect": [
+            {
+                "form_to_show": "a3",
+                "race": "White",
+                "form_filled": "a3",
+                "name": "DESHAWN BLACK",
+                "x": "Criminal charges filed [CF]",
+                "alias": "suspect1",
+                "view_unredacted_file": false,
+                "y": "Insufficient Evidence and/or No criminal charges filed [NCF]",
+                "all_forms_filled": true
+            }
+        ],
+        "uploaded_by": "clerk-rbc@contracostada.org",
+        "officer_count": 8,
+        "assessment_to_be_completed": "closed",
+        "exhibit_id": "34567_6cc7588b-7f6e-4112-8d73-4f8a8b2929c9",
+        "victim": [
+            {
+                "name": "HARTT",
+                "form_to_show": "a1",
+                "alias": "victim1",
+                "race": "Unknown"
+            },
+            {
+                "name": "D. WHEDBEE",
+                "form_to_show": "a1",
+                "alias": "victim2",
+                "race": "Unknown"
+            }
+        ],
+        "witness": [
+            {
+                "name": "RUBEN ALEJO",
+                "form_to_show": "a1",
+                "alias": "witness1",
+                "race": "Unknown"
+            }
+        ],
+        "assigned_to_name": "James Mount",
+        "attorney_id": "55486",
+        "exhibit_type": "pdf",
+        "redaction_index_status": "redacted",
+        "description": "cccSO",
+        "high_priority": false,
+        "assessment_file_key": "34567/initial-assessment-data/34567_6cc7588b-7f6e-4112-8d73-4f8a8b2929c9.json",
+        "index_status": "redacting"
+    },
+    {
+        "case_number": "test 11 pg 2",
+        "exhibit_name": "11 page report two.pdf",
+        "status": "redacted",
+        "fileKey": "test 11 pg 2/raw-files/11 page report two.pdf",
+        "uploaded_at": "2024-10-23 21:12:22",
+        "name_mapping_dict": {
+            "berti joseph": "[Officer #1]",
+            "thompson robert": "[Officer #3]",
+            "joseph  joseph": "[Victim #1]",
+            "jose ponce": "[Suspect #1]",
+            "joseph michael rounsaville": "[Victim #1]",
+            "ofc joseph berti": "[Officer #1]",
+            "joseph rounsaville": "[Victim #1]",
+            "jose": "[Suspect #1]",
+            "ofc job mejia": "[Officer #2]",
+            "jose  jose": "[Suspect #1]",
+            "berti": "[Officer #1]",
+            "thompson  robert": "[Officer #3]",
+            "marie louann barnett": "[Witness #1]",
+            "ponce jose jesus": "[Suspect #1]",
+            "barnett marie louann": "[Witness #1]",
+            "cardona": "[Officer #4]",
+            "jose jesus ponce": "[Suspect #1]",
+            "marie": "[Witness #1]",
+            "rounsaville  joseph michael": "[Victim #1]",
+            "thompson": "[Officer #3]",
+            "harris el justin": "[Officer #5]",
+            "joseph": "[Victim #1]",
+            "marie barnett": "[Witness #1]"
+        },
+        "accessing_users": [
+            {
+                "attorney": "attorney-rbc@contracostada.org"
+            },
+            {
+                "clerk": "dhruv.patel@scalecapacity.com"
+            }
+        ],
+        "suspect": [
+            {
+                "name": "Jose Jesus Ponce",
+                "form_to_show": "a1",
+                "alias": "suspect1",
+                "race": "White"
+            }
+        ],
+        "uploaded_by": "clerk-rbc@contracostada.org",
+        "officer_count": 9,
+        "assessment_to_be_completed": "a1",
+        "exhibit_id": "test 11 pg 2_8aa4830b-a600-42dc-851e-0d912e4e020d",
+        "victim": [
+            {
+                "name": "Joseph Michael Rounsaville",
+                "form_to_show": "a1",
+                "alias": "victim1",
+                "race": "White"
+            }
+        ],
+        "witness": [
+            {
+                "name": "Marie Louann Barnett",
+                "form_to_show": "a1",
+                "alias": "witness1",
+                "race": "White"
+            }
+        ],
+        "assigned_to_name": "James Mount",
+        "attorney_id": "55486",
+        "exhibit_type": "pdf",
+        "redaction_index_status": "redacted",
+        "description": "11 page report 2 of 2",
+        "high_priority": false,
+        "index_status": "redacting"
+    }
+]
