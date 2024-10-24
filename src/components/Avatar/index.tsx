@@ -1,5 +1,5 @@
 import { classNames } from 'utils'
-
+import React from 'react'
 type Size = 'small' | 'medium' | 'large'
 
 type AvatarProps = {
