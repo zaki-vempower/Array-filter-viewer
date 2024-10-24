@@ -1,6 +1,5 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
-// @ts-nocheck
-import { useState, ChangeEvent } from 'react'
+import React, { useState, ChangeEvent } from 'react'
 
 // Define the type for the list of objects
 interface DataObject {
